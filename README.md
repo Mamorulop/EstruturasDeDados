@@ -38,8 +38,4 @@ O sistema conta com várias funcionalidades pensadas para facilitar o uso e o ge
 - Registrar Nota: Registra as notas escolares, registra a nota a diciplina específica.
 - Listar Alunos: Lista todos os alunos com seu nome e matrícula
 - Consultar Notas Alunos: Consulta as notas dos alunos, com a matrícula do aluno você ver todas suas notas em todas as disciplinas que ele cursa.
-- Calcular Média: Calcular a média com a mtrícula do aluno ver a média da nota em relação as disciplinas.
-
-
-![Captura de tela 2025-06-06 225308](https://github.com/user-attachments/assets/2bb67d12-23de-4d22-87a7-2ace6445062d)
-
+- Calcular Média: Calcular a média com a mtrícula do aluno ver a média da nota em relação as disciplinas
