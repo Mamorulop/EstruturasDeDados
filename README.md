@@ -5,7 +5,9 @@
 Integrantes:
 
 Aluno: Maurício Marques Lopes Pereira Lima RGM: 43317723
+
 Aluno: Kaynã Barbosa de Miranda RGM: 40734269
+
 Aluno:  RGM: 
 
 O objetivo deste projeto é criar um sistema de gerenciamento de notas escolares usando Python.
