@@ -19,6 +19,7 @@ Objetivo:
 
 
 -- Conceitos --
+
 🗂️ Estruturas de Dados Essenciais: Uso de listas e dicionários para armazenar, acessar e manipular informações dos academicas de forma organizada e eficiente.
 
 🔍 Busca Linear: Implementação de técnicas para localizar rapidamente livros específicos dentro do catálogo, garantindo que o usuário encontre o que precisa sem complicação.
