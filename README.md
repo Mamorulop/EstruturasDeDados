@@ -44,22 +44,30 @@ Esse arquivo é a interface principal do sistema — é onde o menu é exibido, 
 
 ![Captura de tela 2025-06-06 225308](https://github.com/user-attachments/assets/144d0f02-0fe7-45cc-b64e-39b10531018a)
 
-
-Importações: Ele permite que o seu programa interaja com o sistema operacional no qual está a ser executado. Função menu(): Exibe um menu bonito usando caracteres ASCII para decorar. Usa um loop while True para manter o sistema ativo até o usuário escolher sair. Recebe a opção digitada pelo usuário e executa uma ação: "1" chama cadastrar_aluno() para cadastrar o aluno no sistema. "2" chama registrar_nota() para registrar a nota na disciplina. "3" recebe um título do usuário, chama listar_alunos() e mostra o resultado. "4" chama ordenar_por_titulo() para mostrar os livros ordenados. "0" imprime uma mensagem e sai do loop, encerrando o programa. Caso seja digitada uma opção inválida, exibe mensagem de erro. Chamada final menu(): inicia o programa.
+Importações: Ele permite que o seu programa interaja com o sistema operacional no qual está a ser executado. Função menu(): Exibe um menu bonito usando caracteres ASCII para decorar. Usa um loop while True para manter o sistema ativo até o usuário escolher sair. Recebe a opção digitada pelo usuário e executa uma ação: "1" chama cadastrar_aluno() para cadastrar o aluno no sistema. "2" chama registrar_nota() para registrar a nota na disciplina. "3" chama listar_alunos() e mostra o resultado. "4" chama consultar_notas_aluno(matricula: str) para consultar um aluno matrículado. "5"  calcular_media_disciplina(matricula: str, disciplina: str) onde calcula a média de uma aluno, "0" imprime uma mensagem e sai do loop, encerrando o programa. Caso seja digitada uma opção inválida, exibe mensagem de erro. 
 
 ![Captura de tela 2025-06-06 225430](https://github.com/user-attachments/assets/77631652-1a0a-4621-b645-b639558e1b34)
-
 
 Ao escolher a opção de número 1 é realizado o cadastro do aluno o qual é requerido um número de matrícula que pode conter apenas números mas também comporta letras como por ex: M21; em seguida o usuário deve adicionar o nome do aluno que deseja realizar o cadastro de matrícula, após todos as informações pedidas forem preenchidas o usuário deve apertar "enter" para prosseguir com as demais instruções fornecidas pelo sistema.  
 
 ![Captura de tela 2025-06-06 225500](https://github.com/user-attachments/assets/181ad816-1e8c-4734-83df-ac0c6509afd7)
 
+O que ele faz?
 
+Define a função registrar_nota(matricula: str, disciplina: str, nota: float), que: Registra a nota de um aluno na sua matrícula uma nota na disciplina designada.
 
 ![Captura de tela 2025-06-06 225519](https://github.com/user-attachments/assets/80ed1e9a-b109-49aa-b9c9-f2fc58ee4aa0)
 
+O que ele faz?
+
+Define a função consultar_notas_aluno(matricula: str), que: Consulta a nota de uma matrícula requisitada e mostra sua nota na disciplina especifica. 
 
 ![Captura de tela 2025-06-06 225624](https://github.com/user-attachments/assets/c96ec658-79a7-4618-988d-551f40b6864b)
 
+O que ele faz?
+
+Define a função listar_alunos(), que: Lista todos os alunos matriculados no sistema por ordem alfabética.
 
 ![Captura de tela 2025-06-06 225646](https://github.com/user-attachments/assets/e16897ad-0918-4a09-97c4-31777f2524c2)
+
+Define a função calcular_media_disciplina(matricula: str, disciplina: str), que: Requisitando a matrícula do aluno, mostra a média das nota do mesmo calculando a média com todas as disciplinas que ele cursa.
