@@ -29,6 +29,7 @@ Objetivo:
 🖥️ Interface Interativa: Criação de um menu simples e intuitivo para que o usuário possa navegar, cadastrar, listar, consultar e Calcular.
 
  -- Funcões --
+ 
 O sistema conta com várias funcionalidades pensadas para facilitar o uso e o gerenciamento de notas:
 
 - Cadastrar os alunos: Registra os alunos matriculados no Sistema 
