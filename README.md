@@ -50,7 +50,7 @@ Importações: Ele permite que o seu programa interaja com o sistema operacional
 ![Captura de tela 2025-06-06 225430](https://github.com/user-attachments/assets/77631652-1a0a-4621-b645-b639558e1b34)
 
 
-Ao escolher a opção de número 1 é realizado o cadastro do aluno o qual é requerido o nome do mesmo 
+Ao escolher a opção de número 1 é realizado o cadastro do aluno o qual é requerido um número de matrícula que pode conter apenas números mas também comporta letras como por ex: M21; em seguida o usuário deve adicionar o nome do aluno que deseja realizar o cadastro de matrícula, após todos as informações pedidas forem preenchidas o usuário deve apertar "enter" para prosseguir com as demais instruções fornecidas pelo sistema.  
 
 ![Captura de tela 2025-06-06 225500](https://github.com/user-attachments/assets/181ad816-1e8c-4734-83df-ac0c6509afd7)
 
