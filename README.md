@@ -60,7 +60,7 @@ Define a função registrar_nota(matricula: str, disciplina: str, nota: float), 
 
 O que ele faz?
 
-Define a função consultar_notas_aluno(matricula: str), que: Consulta a nota de uma matrícula requisitada e mostra sua nota na disciplina especifica. 
+Define a função consultar_notas_aluno(matricula: str), que: Consulta a nota de uma matrícula requisitada e mostra sua nota na disciplina específica. 
 
 ![Captura de tela 2025-06-06 225624](https://github.com/user-attachments/assets/c96ec658-79a7-4618-988d-551f40b6864b)
 
