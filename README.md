@@ -42,35 +42,22 @@ O sistema conta com várias funcionalidades pensadas para facilitar o uso e o ge
 
 Esse arquivo é a interface principal do sistema — é onde o menu é exibido, o usuário escolhe uma opção, e a função correta é chamada.
 
-![Captura de tela 2025-06-06 225308](https://github.com/user-attachments/assets/f4943bc1-2398-4527-ab60-d2eda8e3ee18)
+![Captura de tela 2025-06-06 225308](https://github.com/user-attachments/assets/144d0f02-0fe7-45cc-b64e-39b10531018a)
+
 
 Importações: Ele permite que o seu programa interaja com o sistema operacional no qual está a ser executado. Função menu(): Exibe um menu bonito usando caracteres ASCII para decorar. Usa um loop while True para manter o sistema ativo até o usuário escolher sair. Recebe a opção digitada pelo usuário e executa uma ação: "1" chama cadastrar_aluno() para cadastrar o aluno no sistema. "2" chama registrar_nota() para registrar a nota na disciplina. "3" recebe um título do usuário, chama listar_alunos() e mostra o resultado. "4" chama ordenar_por_titulo() para mostrar os livros ordenados. "0" imprime uma mensagem e sai do loop, encerrando o programa. Caso seja digitada uma opção inválida, exibe mensagem de erro. Chamada final menu(): inicia o programa.
 
-![Captura de tela 2025-06-06 225308](https://github.com/user-attachments/assets/2afda59c-1a8b-465b-b9e1-18df9c3aacf1)
+![Captura de tela 2025-06-06 225430](https://github.com/user-attachments/assets/77631652-1a0a-4621-b645-b639558e1b34)
+
+
+![Captura de tela 2025-06-06 225500](https://github.com/user-attachments/assets/181ad816-1e8c-4734-83df-ac0c6509afd7)
 
 
 
-![Captura de tela 2025-06-06 225430](https://github.com/user-attachments/assets/1f721da7-e20d-4c81-91b4-5f3b9f2ae6e2)
+![Captura de tela 2025-06-06 225519](https://github.com/user-attachments/assets/80ed1e9a-b109-49aa-b9c9-f2fc58ee4aa0)
 
 
-
-![Captura de tela 2025-06-06 225500](https://github.com/user-attachments/assets/8c39fc3e-067d-42e1-a883-acebe11e56af)
-
+![Captura de tela 2025-06-06 225624](https://github.com/user-attachments/assets/c96ec658-79a7-4618-988d-551f40b6864b)
 
 
-![Captura de tela 2025-06-06 225519](https://github.com/user-attachments/assets/bbe34ca0-0b97-4757-9bd4-f087c52ed9f4)
-
-
-
-![Captura de tela 2025-06-06 225624](https://github.com/user-attachments/assets/8147a89c-eef5-4b7d-bb57-5724b254925f)
-
-
-
-![Captura de tela 2025-06-06 225646](https://github.com/user-attachments/assets/9c0b3dd8-4460-4aa3-a3c8-27380b5588ba)
-
-
-
-
-
-
-
+![Captura de tela 2025-06-06 225646](https://github.com/user-attachments/assets/e16897ad-0918-4a09-97c4-31777f2524c2)
