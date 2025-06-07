@@ -39,3 +39,25 @@ O sistema conta com várias funcionalidades pensadas para facilitar o uso e o ge
 - Listar Alunos: Lista todos os alunos com seu nome e matrícula
 - Consultar Notas Alunos: Consulta as notas dos alunos, com a matrícula do aluno você ver todas suas notas em todas as disciplinas que ele cursa.
 - Calcular Média: Calcular a média com a mtrícula do aluno ver a média da nota em relação as disciplinas
+
+
+![Captura de tela 2025-06-06 225308](https://github.com/user-attachments/assets/f4943bc1-2398-4527-ab60-d2eda8e3ee18)
+
+![Captura de tela 2025-06-06 225308](https://github.com/user-attachments/assets/2afda59c-1a8b-465b-b9e1-18df9c3aacf1)
+
+![Captura de tela 2025-06-06 225430](https://github.com/user-attachments/assets/1f721da7-e20d-4c81-91b4-5f3b9f2ae6e2)
+
+![Captura de tela 2025-06-06 225500](https://github.com/user-attachments/assets/8c39fc3e-067d-42e1-a883-acebe11e56af)
+
+![Captura de tela 2025-06-06 225519](https://github.com/user-attachments/assets/bbe34ca0-0b97-4757-9bd4-f087c52ed9f4)
+
+![Captura de tela 2025-06-06 225624](https://github.com/user-attachments/assets/8147a89c-eef5-4b7d-bb57-5724b254925f)
+
+![Captura de tela 2025-06-06 225646](https://github.com/user-attachments/assets/9c0b3dd8-4460-4aa3-a3c8-27380b5588ba)
+
+
+
+
+
+
+
